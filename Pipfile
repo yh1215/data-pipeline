@@ -4,11 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+bs4 = "*"
+requests = "*"
+pandas = "*"
+jieba = "*"
+selenium = "*"
+jupyter = "*"
 
 [dev-packages]
-ipython = "*"
-pre-commit = "*"
-ipykernel = "*"
 
 [requires]
-python_version = "3.12"
+python_version = "3.11"
+python_full_version = "3.11.5"
