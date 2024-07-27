@@ -134,3 +134,6 @@ dmypy.json
 .DS_Store
 Pipfile.lock
 requirements.txt
+
+# resource file
+resource/
