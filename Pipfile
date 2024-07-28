@@ -10,6 +10,9 @@ pandas = "*"
 jieba = "*"
 selenium = "*"
 jupyter = "*"
+pymysql = "*"
+pandasql = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 ipython = "*"
